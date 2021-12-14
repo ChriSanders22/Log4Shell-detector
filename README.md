@@ -5,7 +5,7 @@ This repo provides a static compiled version of Yara for Linux x86-64, without a
 # Usage
 	git clone https://github.com/ChriSanders22/Log4Shell-detector.git
 	cd Log4Shell-detector
-        sudo ./yara rules/expl_log4j_cve_2021_44228.yar /var/log
+	sudo ./yara rules/expl_log4j_cve_2021_44228.yar /var/log
         
 
 
